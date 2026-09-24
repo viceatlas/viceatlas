@@ -2,7 +2,7 @@
 
 I build systems that grade their own work.
 
-Six years as the only engineer on everything I ship. The part I care about most:
+The only engineer on everything I ship since 2020. The part I care about most:
 predictions frozen before outcomes exist, an adversarial judge scoring every claim
 against its evidence, and kill criteria written down before the results come in.
 
