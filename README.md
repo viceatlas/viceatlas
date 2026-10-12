@@ -9,9 +9,9 @@ against its evidence, and kill criteria written down before the results come in.
 **Start here:**
 
 - [self-grading-demo](https://github.com/viceatlas/self-grading-demo) — an agent
-  pipeline that grades its own output. Runs in two minutes, no API keys.
+  pipeline that grades its own output. Runs in under a second, no API keys.
 - [role-scout](https://github.com/viceatlas/role-scout) — a job-discovery pipeline.
-  The model proposes, the record grades, a human approves everything.
+  The model proposes, SQLite records, a human approves everything.
 - [viceatlas.com](https://viceatlas.com) — my live consumer product. 1,355 static
   pages, built solo, schema to deploy.
 
